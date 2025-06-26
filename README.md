@@ -10,7 +10,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github" />
     <img src="https://skillicons.dev/icons?i=javascript,java,mysql" /><br>
-    <img src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" alt="Canva" width="48" height="48" style="margin-top: 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.png" alt="Canva" width="48" height="48" style="margin-top: 10px;">
 </div>
 
 <br/>
