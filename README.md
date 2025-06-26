@@ -8,8 +8,8 @@
 # 💻 Tech Stack:
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github" />
-    <img src="https://skillicons.dev/icons?i=javascript,java,mysql" /br>
+    <img src="https://skillicons.dev/icons?i=c++,html,css,vscode,github" />
+    <img src="https://skillicons.dev/icons?i=javascript,java,mysql,php" /br>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" width="48" height="48" style="margin-top: 10px;">
 </div>
 
