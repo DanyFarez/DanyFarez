@@ -3,7 +3,7 @@
 </h1>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/danyfarez) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:danreez1307@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=githubpages&logoColor=white)]([https://yourportfolio.link](https://rawcdn.githack.com/DanyFarez/Portfolio/8a2668765ebe0effa31fc9d916e58d30e33661bb/portfolio.html))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/danyfarez) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:danreez1307@gmail.com) <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
 
 # 💻 Tech Stack:
 <br/>
