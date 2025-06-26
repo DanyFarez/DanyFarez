@@ -14,6 +14,11 @@
 </div>
 
 <br/>
+ <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=DanyFarez&theme=jolly&hide_border=false&include_all_commits=false&count_private=false)<br/>
