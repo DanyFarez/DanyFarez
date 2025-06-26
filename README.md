@@ -15,7 +15,8 @@
 
 <br/>
  <br>
-    <img src="https://i0.wp.com/netart.commons.gc.cuny.edu/files/2017/06/Running-Code.gif?resize=620%2C620&amp;ssl=1" alt="run" width="400" height="400" align="center">
+     <div align="center">
+    <img src="https://i0.wp.com/netart.commons.gc.cuny.edu/files/2017/06/Running-Code.gif?resize=620%2C620&amp;ssl=1" alt="run" width="300" height="300">
   
 <br/>
 </div>
