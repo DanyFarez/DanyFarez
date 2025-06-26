@@ -15,9 +15,9 @@
 
 <br/>
  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+    <img src="https://i0.wp.com/netart.commons.gc.cuny.edu/files/2017/06/Running-Code.gif?resize=620%2C620&amp;ssl=1" alt="" width="500" height="400">
   
-  <br/><br/><br/>
+<br/>
 </div>
 
 # 📊 GitHub Stats:
