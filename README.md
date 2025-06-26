@@ -8,7 +8,7 @@
 # 💻 Tech Stack:
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,canva" />
     <img src="https://skillicons.dev/icons?i=javascript,java,mysql" /><br>
 </div>
 
