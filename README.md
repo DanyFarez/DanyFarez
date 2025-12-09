@@ -3,7 +3,7 @@
 </h1>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/danyfarez) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:danreez1307@gmail.com) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:danreez1307@gmail.com) 
 <a href="https://rawcdn.githack.com/DanyFarez/Portfolio/7251acb191c9093d64cf31b09f8e7df8f61662a9/portfolio.html" target="https://rawcdn.githack.com/DanyFarez/Portfolio/7251acb191c9093d64cf31b09f8e7df8f61662a9/portfolio.html">
   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
 </a>
