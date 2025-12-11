@@ -3,7 +3,7 @@
 </h1>
 
 - 🔭 I’m currently working on: **System Development**
-- 💻 Tech Stack: **PHP, MySQL, HTML, CSS**
+- 💻 Tech Stack: **HTML, CSS, JavaScript, PHP, MySQL**
 - 🌱 I’m learning: **Database Optimization & Security**
 - ⚡ Fun fact: I'm aiming to master the full LAMP stack.
 
