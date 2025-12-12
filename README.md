@@ -8,10 +8,15 @@
 - ⚡ Fun fact: I'm aiming to master the full LAMP stack.
 
 ## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:danreez1307@gmail.com) 
-<a href="https://rawcdn.githack.com/DanyFarez/Portfolio/refs/heads/main/portfolio.html" target="https://rawcdn.githack.com/DanyFarez/Portfolio/refs/heads/main/portfolio.html">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
-</a>
+<p align="left">
+  <a href="mailto:danreez1307@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+
+  <a href="https://rawcdn.githack.com/DanyFarez/Portfolio/refs/heads/main/portfolio.html" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 # 💻 Tech Stack:
 <br/>
 <div align="center">
