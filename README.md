@@ -14,17 +14,18 @@
 # 💻 Tech Stack:
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,html,css,vscode,github" />
-    <img src="https://skillicons.dev/icons?i=javascript,java,mysql,php" /br>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" width="48" height="48" style="margin-top: 10px;">
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,java" />
+    <br/>
+    <br/>
+    <img src="https://skillicons.dev/icons?i=github,vscode" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" width="40" alt="Canva" style="vertical-align:top; margin-left:5px;" />
 </div>
 
 <br/>
- <br>
-     <div align="center">
-    <img src="https://i0.wp.com/netart.commons.gc.cuny.edu/files/2017/06/Running-Code.gif?resize=620%2C620&amp;ssl=1" alt="run" width="300" height="300">
-  
 <br/>
+
+<div align="center">
+    <img src="https://i0.wp.com/netart.commons.gc.cuny.edu/files/2017/06/Running-Code.gif?resize=620%2C620&amp;ssl=1" alt="run" width="300" height="300">
 </div>
 
 # 📊 GitHub Stats:
