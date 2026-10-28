@@ -10,7 +10,7 @@
 ## 🌐 Socials:
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=danreez1307@gmail.com) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://rawcdn.githack.com/DanyFarez/Portfolio/refs/heads/main/portfolio.html)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://danyfarez.github.io/Portfolio/)
 # 💻 Tech Stack:
 <br/>
 <div align="center">
